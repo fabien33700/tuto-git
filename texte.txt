@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Bonjour!
 - Comment allez-vous aujourd'hui ?
 - Bonjour! Je suis le collaborateur A
